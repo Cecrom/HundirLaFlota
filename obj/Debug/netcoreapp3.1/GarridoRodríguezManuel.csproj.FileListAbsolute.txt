@@ -1,0 +1,52 @@
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.exe
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.deps.json
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.json
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.dev.json
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csprojAssemblyReference.cache
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfoInputs.cache
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfo.cs
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csproj.CoreCompileInputs.cache
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\IiIFe\Desktop\Programación\Práctica Hundir la Flota\GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.genruntimeconfig.cache
+C:\Users\DAM_DAW\Desktop\Hundir la flota\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.exe
+C:\Users\DAM_DAW\Desktop\Hundir la flota\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.deps.json
+C:\Users\DAM_DAW\Desktop\Hundir la flota\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.json
+C:\Users\DAM_DAW\Desktop\Hundir la flota\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.dev.json
+C:\Users\DAM_DAW\Desktop\Hundir la flota\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\DAM_DAW\Desktop\Hundir la flota\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csprojAssemblyReference.cache
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfoInputs.cache
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfo.cs
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csproj.CoreCompileInputs.cache
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\DAM_DAW\Desktop\Hundir la flota\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.genruntimeconfig.cache
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.exe
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.deps.json
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.json
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.dev.json
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csprojAssemblyReference.cache
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfoInputs.cache
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfo.cs
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csproj.CoreCompileInputs.cache
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\IiIFe\Desktop\Hundir la flota (ROTO)\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.genruntimeconfig.cache
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.exe
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.deps.json
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.json
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.runtimeconfig.dev.json
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\bin\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csprojAssemblyReference.cache
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfoInputs.cache
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.AssemblyInfo.cs
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.csproj.CoreCompileInputs.cache
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.dll
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.pdb
+C:\Users\IiIFe\Google Drive\FP DAW\Primero\Programación\1º Trimestre\Ejercicios\Hundir la flota GarridoRodríguezManuel\obj\Debug\netcoreapp3.1\GarridoRodríguezManuel.genruntimeconfig.cache
